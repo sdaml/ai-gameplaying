@@ -1,3 +1,4 @@
 # sd&ml
 
-### Software Development & Machine Learning
+### Intro to AI Gameplaying strategies
+

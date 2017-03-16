@@ -1,0 +1,5 @@
+Udacity distributes the content of this (isolation) directory under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0.
+
+See their terms of service here: https://www.udacity.com/legal#section-7
+
+The original repository: https://github.com/UDACITY/AIND-isolation
